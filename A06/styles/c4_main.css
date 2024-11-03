@@ -41,7 +41,7 @@ a:focus, a:hover {
 	text-shadow:var(--global-color-1) 2px 2px 2px;
 }
 :root {
-	--global-color-1: #4d0080;
+	--global-color-1: #800000;
 }
 
 /* the styles for the footer */
